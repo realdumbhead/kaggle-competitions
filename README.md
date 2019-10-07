@@ -1,5 +1,5 @@
 # kaggle-competitions
-A place to store my kaggle competition code:
+A place to store my first kaggle competitions code:
 
 ### [Digit Recognition](https://www.kaggle.com/c/digit-recognizer)
 Identifying MNIST handwritten data
