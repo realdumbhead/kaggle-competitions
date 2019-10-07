@@ -1,4 +1,4 @@
-# kaggle-competitions
+# my-first-kaggle-competitions
 A place to store my first kaggle competitions code:
 
 ### [Digit Recognition](https://www.kaggle.com/c/digit-recognizer)
